@@ -1,0 +1,129 @@
+ASAHI INTECC - BRANDING GUIDE
+
+BRAND IDENTITY:
+- Company Name: ASAHI INTECC
+- Tagline: "Your Dreams. Woven Together."
+- Industry: Medical Device Manufacturing
+- Brand Personality: Professional, Innovative, Precise, Trustworthy
+
+COLOR PALETTE:
+Primary Colors:
+- Red: #c8161d (primary brand color - used in logo, active elements, and accents)
+- White: #ffffff (clean background and dominant surface color)
+- Black: #1a2d2b (primary text color and logo text)
+
+Secondary Colors:
+- Light Gray: #f5f5f5 (subtle backgrounds and section dividers)
+- Dark Gray: #333333 (secondary text and navigation elements)
+- Light Blue: #e6f3ff (medical attire color seen in imagery)
+
+Typography:
+Primary Font Family:
+- Sans-serif fonts (Arial, Helvetica, or similar) for navigation and body text
+- Serif fonts for taglines and hero text ("Your Dreams. Woven Together.")
+- Clean, modern, professional appearance
+- Good readability for medical/technical content
+
+Font Hierarchy:
+- Headers: Bold, larger font sizes
+- Body Text: Regular weight, readable size
+- Navigation: Medium weight, clear and accessible
+- Buttons/Links: Medium to bold weight
+- Taglines: Elegant serif font for aspirational messaging
+
+VISUAL DESIGN ELEMENTS:
+
+Layout Principles:
+- Clean, minimalist design
+- Generous white space
+- Grid-based layout
+- Professional medical aesthetic
+- Mobile-responsive design
+
+Navigation Design:
+- Horizontal top navigation with clean white background
+- Clear product categorization with red dropdown indicators
+- Dropdown menus for subcategories
+- Global network selector (red globe icon with "Europe (EN)")
+- Search functionality prominently placed (red magnifying glass icon)
+- Active page indicated with red underline
+- Thin vertical light gray separators between navigation items
+
+Button Styles:
+- Rounded corners or subtle border radius
+- Red primary buttons (#c8161d)
+- White secondary buttons with red borders
+- Hover effects for interactivity
+- Clear call-to-action styling
+
+Iconography:
+- Medical/technical icons
+- Clean, simple line icons
+- Professional appearance
+- Consistent icon style throughout
+
+IMAGERY STYLE:
+- High-quality product photography
+- Medical procedure imagery
+- Professional healthcare settings with medical professionals in light blue attire
+- Clean, clinical aesthetic with soft, professional lighting
+- Technical diagrams and illustrations
+- Blurred background imagery for hero sections
+- Medical equipment and laboratory settings
+
+BRAND MESSAGING:
+Key Themes:
+- Precision and Control
+- Innovation and Technology
+- Global Reach and Expertise
+- Professional Medical Solutions
+- Quality and Reliability
+- Collaboration and Partnership ("Woven Together")
+
+Tone of Voice:
+- Professional and authoritative
+- Technical but accessible
+- Trustworthy and credible
+- Innovative and forward-thinking
+- Patient and healthcare provider focused
+- Aspirational and inspiring ("Your Dreams")
+
+WEBSITE STRUCTURE ELEMENTS:
+- Header with logo and navigation
+  * Logo: Red stylized "A" shape above "ASAHI" in black, "INTECC" below in smaller black text
+  * Top left: Small red text links ("us", "eIFU")
+  * Top right: Red globe icon with region selector, red search icon
+- Hero section with tagline
+  * Background: Blurred medical professionals in clinical setting
+  * Overlay: Large white serif text "Your Dreams. Woven Together."
+  * Medical imagery reinforces industry focus
+- Product category sections
+- Technology showcase
+- News and events section
+- Global network footer
+- Contact information prominently displayed
+
+INTERACTIVE ELEMENTS:
+- Product search functionality
+- Category filtering
+- Contact forms
+- Video library integration
+- Multi-language support
+- Regional content adaptation
+
+ACCESSIBILITY CONSIDERATIONS:
+- High contrast text
+- Clear navigation structure
+- Readable font sizes
+- Alt text for images
+- Keyboard navigation support
+- Screen reader compatibility
+
+RESPONSIVE DESIGN:
+- Mobile-first approach
+- Tablet and desktop optimization
+- Flexible grid layouts
+- Touch-friendly interface elements
+- Adaptive content presentation
+
+This branding guide provides the foundation for creating presentations and web applications that maintain Asahi Intecc's professional medical device company identity while ensuring consistency with their established brand standards. 

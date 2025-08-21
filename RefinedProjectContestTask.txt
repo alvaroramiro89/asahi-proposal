@@ -1,0 +1,75 @@
+REFINED PROJECT CONTEST TASK
+
+Executive Summary
+Asahi Intecc seeks collaborative, innovative, and actionable initiatives that can show tangible progress within FY50 to expand market share in Neurovascular and Peripheral segments while protecting Coronary leadership. The initiative should align Sales, Marketing Communications, and Product Management, and leverage education-led engagement to build preference among advanced residents, fellows, and early-career physicians.
+
+Context and Baseline (from AsahiContest, intromail, and company context)
+- Company: 50-year-old, conservative Japanese medical device manufacturer specialized in guidewires, microcatheters, and guiding catheters.
+- Market Position: ~80% share in Coronary; only ~10–15% (or less) in Neurovascular and Peripheral.
+- Customers: Interventional cardiologists, radiologists, and vascular surgeons.
+- Global footprint; regional regulatory nuances; eIFU requirements.
+- Current go-to-market heavily relies on distributors; limited visibility into secondary sales and end-user behavior.
+- High spend on congresses with limited measurable ROI; weak direct relationship with fellows/residents.
+- External friction: terminology and practice differences between specialties/hospitals.
+
+Problem / Need / Opportunity
+- Problem: Low adoption and product familiarity in Neurovascular and Peripheral; insufficient direct access to end users; fragmented education and messaging; poor secondary-sales intelligence.
+- Need: A scalable, compliant way to educate, engage, and support advanced trainees and early-career physicians globally, while capturing zero/first‑party insights to inform Sales and Product.
+- Opportunity: Leverage Asahi’s technology leadership and brand trust to build an education-led growth engine that nurtures long-term loyalty, harmonizes clinical language across specialties, and delivers measurable lift in trials, usage, and share.
+
+Hypothesis
+If Asahi provides high-quality, specialty-specific education, tools, and community support to advanced residents/fellows and early-career physicians—combined with compliant product knowledge and hands-on support—then brand preference and adoption in Peripheral and Neurovascular will increase, improving secondary sales while maintaining Coronary leadership.
+
+Primary Objective
+Increase awareness, evaluation, and adoption of Asahi products in Neurovascular and Peripheral by creating an education-led, data-informed engagement program that is collaborative, global-ready, and demonstrably impactful within FY50.
+
+Secondary Objectives
+- Build a direct, compliant channel to end users and KOLs.
+- Improve market intelligence beyond primary sales by capturing zero/first‑party data.
+- Unify terminology and clinical frameworks across specialties to reduce friction.
+- Re-allocate part of congress spend to high-ROI, always-on digital education.
+
+Scope of the Contest Task (what to design and pilot)
+- Design and execute a Europe-focused pilot for an education-led growth program comprising:
+  1) A lightweight digital academy (web app) focused on Peripheral and Neuro modules, initially in English with key European languages.
+  2) A mentorship/KOL webinar cadence and case-library integration with European KOLs and training centers.
+  3) A compliant product selection helper that links to eIFU and European regional claims/approvals.
+  4) A data capture plan (GDPR-compliant consents, analytics, feedback loops) integrated with European CRM systems.
+  5) A micro‑sponsorship framework for European fellowships/workshops with clear criteria and governance.
+  6) A distributor enablement add-on (optional in pilot) to improve secondary-sales signal in European markets.
+
+Success Metrics (illustrative)
+- Reach/Adoption: Registered HCPs across key European markets (UK, Germany, France, Italy, Spain, Netherlands), % in target specialties, repeat sessions.
+- Engagement: Module completions, quiz pass rates, webinar attendance, content ratings by European region.
+- Commercial Proxies: Requests for evaluation/trials, sample kit requests, qualified leads to European Sales teams, growth in secondary sales in pilot European markets.
+- Brand: Share of voice in target European segments, NPS/CES among European trainees, European KOL participation.
+- Efficiency: Cost per engaged HCP vs. European congress benchmarks; time-to-first engagement.
+
+Constraints & Risks
+- Compliance: European claims and approvals, eIFU, off-label avoidance, GDPR compliance, country-specific medical device regulations.
+- Medical governance: content review by European Product Management and Medical/Clinical Affairs teams.
+- IT/security: account management, data protection, European hosting requirements, multi-language support.
+- Localization and translation for key European markets (German, French, Italian, Spanish, Dutch); accessibility standards.
+
+Stakeholders & Collaboration Model
+- Core: European Sales leads, European Marketing Communications, European Product Management.
+- Support: European Medical/Clinical Affairs, European Regulatory/Legal, IT/Data, European Distributor managers.
+- External: European KOLs, European training centers, European medical societies.
+
+Deliverables for Proposal (to align with contest brief)
+- Europe-focused pilot plan and scope (features, target European markets, specialties) with budget and team roles.
+- Timeline: kick-off, content production, platform MVP, pilot launch, evaluation points.
+- Content outline and European KOL plan; European compliance workflow.
+- Data strategy: GDPR-compliant consent flows, analytics KPIs, European CRM integration, reporting cadence.
+- Risk register and mitigations for European market expansion.
+
+Assumptions
+- Access to brand assets and existing video library.
+- Ability to run a secure, GDPR-compliant web app and capture consented analytics.
+- Availability of European KOLs/educators and small grant budgets for European pilots.
+- European headquarters (Amsterdam) can serve as coordination hub for the pilot.
+
+Why this fits the contest intent
+- Collaborative by design across Sales, MarCom, Product, and Clinical.
+- Creative: shifts from event-heavy spend to an education-led platform and micro‑sponsorships.
+- Actionable: clear MVP, pilot scope, metrics, and governance to deliver progress in FY50.

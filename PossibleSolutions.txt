@@ -1,0 +1,92 @@
+POSSIBLE SOLUTIONS — OPTION SET AND MVP
+
+Guiding Principles
+- Education-led, clinician-first value; compliance by design (eIFU, regional claims, privacy).
+- Measurable impact within FY50; scalable globally; lightweight to pilot.
+- Data-informed: capture zero/first‑party insights to improve GTM and product.
+
+Option 1 — Asahi Academy (Web App)
+- Purpose: Always-on education and engagement hub for Neurovascular and Peripheral.
+- Core Features:
+  - Role-based registration (resident, fellow, attending; specialty and region).
+  - Structured learning paths with short modules, quizzes, and certificates.
+  - Case library and video integration (leverage existing Video Library assets).
+  - KOL webinars/live sessions with Q&A and CME-ready formats where feasible.
+  - Product knowledge with strict compliance gates; links to eIFU and regional labeling.
+  - Product selection helper/wizard (education-first; non-promotional, claims-aware).
+  - Analytics: session tracking, completions, feedback, content ratings; CRM sync.
+  - Localization: multi-language UI and content roadmap.
+- Benefits: Direct end‑user channel, scalable, measurable, brand-building.
+- Dependencies: Content production, KOLs, review workflows, web app build.
+
+Option 2 — Fellowship & Residency Support Program
+- Micro‑grants, travel scholarships, preceptorship matching, and skills workshops.
+- Application portal with transparent criteria; post‑activity reporting and case write‑ups.
+- Benefits: Early loyalty, content co‑creation; measurable outputs.
+- Dependencies: Budget governance, legal/compliance, selection committee.
+
+Option 3 — Hospital Partnership Workshops (Onsite + Virtual)
+- Regional hands‑on workshops with simulation labs and remote proctoring.
+- Starter kits and evaluation packs; follow-up virtual case reviews.
+- Benefits: High conversion in target centers; accelerates trials.
+- Dependencies: Logistics, inventory, KOL/faculty time, hospital agreements.
+
+Option 4 — Market Intelligence Pipeline
+- Distributor portal or self-reporting program for secondary sales; standard taxonomy.
+- In‑platform surveys/polls; de‑identified usage analytics; dashboard for Sales/Product.
+- Benefits: Visibility beyond primary sales; informs launches and allocations.
+- Dependencies: Data model, incentives, privacy review, tool integration.
+
+Option 5 — Product Selection Tool & Case Planner
+- Interactive guides by indication (Peripheral, Neuro) and vessel characteristics.
+- Recommends wire/catheter families with education and technique notes; region-aware.
+- Saves plans to user profile; aggregates de‑identified patterns for insights.
+- Benefits: Bridges education and practice; supports technique standardization.
+
+Option 6 — KOL Co‑creation Content Network
+- Short micro‑learning videos, case pearls, technique animations; peer‑reviewed.
+- Translation/localization streams; content calendar tied to webinars and workshops.
+
+Option 7 — Events ROI Shift
+- Reduce large-congress spend in pilot regions; reallocate to Academy growth, webinars, and micro‑grants. Track CPA/CPE vs. congress benchmarks.
+
+Recommended MVP (90 days)
+- Deliver a lean Asahi Academy (Option 1) + a basic Selection Helper (Option 5).
+- Scope:
+  - Auth/registration with GDPR consent; profile fields: specialty, European country, seniority.
+  - 3–5 core modules (2 Peripheral, 2 Neuro; 1 cross‑cutting fundamentals) in English with key European languages.
+  - 2 live European KOL webinars with recordings and multi-language subtitles.
+  - Initial case library (5–10 cases) leveraging existing videos where possible, featuring European cases.
+  - Selection Helper v1: indication-based, European claims‑aware links to eIFU; educational.
+  - Analytics dashboard: registrations by European country, engagement, completions, feedback.
+  - CRM integration for qualified education leads to European Sales teams follow‑up.
+- Pilot Focus: Europe-first (UK, Germany, France, Italy, Spain, Netherlands); designed for global replication.
+
+KPIs (pilot)
+- 1,000+ registered HCPs across key European markets with ≥60% in target specialties; ≥40% module completion rate.
+- ≥300 webinar attendees live across European time zones; ≥70% replay within 30 days.
+- ≥150 requests for evaluation/samples or demo follow‑ups from European markets.
+- +5–10% secondary-sales uplift in pilot European SKUs/sites vs. baseline (where measurable).
+- Cost per engaged HCP ≤ 50% of European congress benchmark.
+- Platform architecture and content framework ready for global replication.
+
+Timeline (illustrative)
+- Weeks 0–2: Kick-off; European governance; content outline; tech setup with GDPR compliance.
+- Weeks 2–6: European content production; platform build; European KOL scheduling.
+- Weeks 6–8: European compliance review; soft launch with European beta users.
+- Weeks 9–12: European pilot launch; webinars; data collection; iteration.
+- Month 4+: Assess European results; prepare global replication framework.
+
+Budget Buckets (high level)
+- Platform build/hosting with European GDPR compliance; European Content/KOL fees; European Localization (German, French, Italian, Spanish, Dutch); European MarCom; European Micro‑grants; European Legal/Compliance.
+
+Risks & Mitigations
+- European compliance risk → add European medical/legal review gates; European geo‑aware claims and approvals.
+- Low European engagement → co-create with European KOLs; incentives; certificates; targeted European outreach.
+- European data/privacy → explicit GDPR consent, transparent value exchange, European data hosting.
+- European distributor friction → include European enablement tracks; share insights back to European distributors.
+
+Next Steps
+- Confirm European pilot markets (UK, Germany, France, Italy, Spain, Netherlands) and product focus; nominate European cross‑functional team.
+- Approve European budget and governance; start European content/KOL pipeline.
+- Begin MVP build aligned with Asahi branding, European accessibility standards, and GDPR compliance.

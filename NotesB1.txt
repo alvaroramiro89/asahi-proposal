@@ -1,0 +1,24 @@
+This are notes for context after brainstorming:
+
+Idea para Asahi collaborative competition: plataforma educativa que genere más brand awareness
+ (sobre todo en el area de neurointervencionismo y en vascular periferico). Que sirva no solo para educar fellows y residentes avanzados, 
+ sino tb promocionar la marca y recopilar información sobre el mercado
+Problemas 
+Externo: Falta de consenso entre especialistas de radiología y cirujanos vasculares) no manejan los mismos términos, y dependiendo del hospital, es quien realiza el procedimiento. 
+Interno: falta de metodologia para recolipar informacion de mercado. Antes solo teniamos informacion de las ventas primarias, es decir cuanto le vendemos al distribuidor y despues de eso no sabias que pasaba. Ahora estamos intentando juntar informacion de las ventas secundarios ( es decir, cuanto le vende el distribuidor a los medicos, hospitales etc)
+Para esto dependemos compeltamente del distribuidor, que no siempre colabora o brinda datos fidedignos.
+La empresa es mundial, trabaja en muchos lugares, y con suerte logramos obtener info de Europa. Estaria bueno tener informacion de que pasa en otras partes del mundo. 
+
+
+
+
+---
+Alvaro note:
+Problema: no tenes contacto directo con el end user (médico fellow), 
+gastas mucho $ en congresos que tienen poco impacto y son algo vieja escuela, 
+con un producto digital educativo podes brindar valor a médicos proveyendo un site educativo gratuito , 
+podes interactuar para recabar data 📊 e insights de mercado , 
+no depender de un proveedor third party para interactuar con el médico ,
+ además de brindar un servicio a los
+Médicos a muy bajo costo , promocionas tus productos y los vendes
+----
