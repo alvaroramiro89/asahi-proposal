@@ -1,0 +1,563 @@
+{
+  "presentation": {
+    "title": "Asahi Intecc - Education-Led Growth Program Proposal",
+    "subtitle": "Expanding Market Share in Neurovascular and Peripheral Segments",
+    "totalSlides": 11,
+    "brandColors": {
+      "primary": "#c8161d",
+      "secondary": "#1a2d2b",
+      "background": "#ffffff",
+      "accent": "#f5f5f5"
+    },
+    "slides": [
+      {
+        "slideNumber": 1,
+        "slideType": "title",
+        "title": "Asahi Intecc",
+        "subtitle": "Education-Led Growth Program",
+        "tagline": "Your Dreams. Woven Together.",
+        "elements": [
+          {
+            "type": "logo",
+            "position": "top-center",
+            "content": "ASAHI INTECC logo with red stylized 'A'"
+          },
+          {
+            "type": "background",
+            "content": "Blurred medical professionals in clinical setting"
+          },
+          {
+            "type": "presenter",
+            "content": "Presented by: [Presenter Name]",
+            "position": "bottom-left"
+          },
+          {
+            "type": "date",
+            "content": "FY50 Proposal",
+            "position": "bottom-right"
+          }
+        ]
+      },
+      {
+        "slideNumber": 2,
+        "slideType": "agenda",
+        "title": "Agenda",
+        "elements": [
+          {
+            "type": "list",
+            "items": [
+              "Executive Summary & Context",
+              "Problem Statement & Opportunity",
+              "Proposed Solution Overview",
+              "Digital Academy Platform",
+              "Mentorship & KOL Program",
+              "Product Selection Helper",
+              "Data Strategy & Analytics",
+              "Micro-Sponsorship Framework",
+              "Implementation Timeline",
+              "Success Metrics & ROI",
+              "Next Steps & Q&A"
+            ]
+          },
+          {
+            "type": "note",
+            "content": "Europe-focused pilot program",
+            "position": "bottom"
+          }
+        ]
+      },
+      {
+        "slideNumber": 3,
+        "slideType": "context",
+        "title": "Company Context & Market Position",
+        "elements": [
+          {
+            "type": "companyInfo",
+            "title": "Asahi Intecc",
+            "details": [
+              "50-year-old Japanese medical device manufacturer",
+              "Specialized in guidewires, microcatheters, and guiding catheters",
+              "Innovators in the field of medical device technology",
+              "Global footprint with regional regulatory nuances"
+            ]
+          },
+          {
+            "type": "marketShare",
+            "title": "Current Market Share",
+            "data": [
+              {
+                "segment": "Coronary",
+                "percentage": "80%",
+                "status": "Market Leader"
+              },
+              {
+                "segment": "Neurovascular",
+                "percentage": "10-15%",
+                "status": "Growth Opportunity"
+              },
+              {
+                "segment": "Peripheral",
+                "percentage": "10-15%",
+                "status": "Growth Opportunity"
+              }
+            ]
+          },
+          {
+            "type": "customers",
+            "title": "Target Customers",
+            "list": [
+              "Interventional cardiologists",
+              "Vascular surgeons",
+              "Interventional radiologists"
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 4,
+        "slideType": "problem",
+        "title": "Problem Statement & Opportunity",
+        "elements": [
+          {
+            "type": "problemSection",
+            "title": "Current Challenges",
+            "items": [
+              "Low adoption and product familiarity in Neurovascular and Peripheral segments",
+              "Insufficient direct access to end users",
+              "Fragmented education and messaging across specialties",
+              "Poor secondary-sales intelligence",
+              "High spend on congresses with limited measurable ROI",
+              "Weak direct relationship with fellows/residents"
+            ]
+          },
+          {
+            "type": "opportunitySection",
+            "title": "Opportunity",
+            "content": "Leverage Asahi's technology leadership and brand trust to build an education-led growth engine that nurtures long-term loyalty, harmonizes clinical language across specialties, and delivers measurable lift in trials, usage, and share."
+          },
+          {
+            "type": "hypothesis",
+            "title": "Hypothesis",
+            "content": "If Asahi provides high-quality, specialty-specific education, tools, and community support to advanced residents/fellows and early-career physicians—combined with compliant product knowledge and hands-on support—then brand preference and adoption in Peripheral and Neurovascular will increase."
+          }
+        ]
+      },
+      {
+        "slideNumber": 5,
+        "slideType": "solution",
+        "title": "Proposed Solution Overview",
+        "subtitle": "Education-Led Growth Program",
+        "elements": [
+          {
+            "type": "solutionComponents",
+            "title": "Six Core Components",
+            "components": [
+              {
+                "name": "Digital Academy",
+                "description": "Lightweight web app focused on Peripheral and Neuro modules",
+                "features": [
+                  "Multi-language support",
+                  "Interactive learning",
+                  "Progress tracking"
+                ]
+              },
+              {
+                "name": "Mentorship Program",
+                "description": "KOL webinar cadence and case-library integration",
+                "features": [
+                  "European KOLs",
+                  "Training centers",
+                  "Case studies"
+                ]
+              },
+              {
+                "name": "Product Helper",
+                "description": "Compliant product selection tool with eIFU integration",
+                "features": [
+                  "Regional claims",
+                  "European approvals",
+                  "Compliance focus"
+                ]
+              },
+              {
+                "name": "Data Strategy",
+                "description": "GDPR-compliant analytics and feedback loops",
+                "features": [
+                  "Consent management",
+                  "CRM integration",
+                  "ROI tracking"
+                ]
+              },
+              {
+                "name": "Micro-Sponsorship",
+                "description": "Framework for European fellowships/workshops",
+                "features": [
+                  "Clear criteria",
+                  "Governance structure",
+                  "Measurable impact"
+                ]
+              },
+              {
+                "name": "Distributor Enablement",
+                "description": "Add-on to improve secondary-sales signal",
+                "features": [
+                  "European markets",
+                  "Sales intelligence",
+                  "Market insights"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 6,
+        "slideType": "digitalAcademy",
+        "title": "Digital Academy Platform",
+        "subtitle": "Web-Based Learning Solution",
+        "elements": [
+          {
+            "type": "platformFeatures",
+            "title": "Key Features",
+            "features": [
+              "Specialty-specific modules (Peripheral & Neuro)",
+              "Multi-language support (English + key European languages)",
+              "Interactive learning with progress tracking",
+              "Mobile-responsive design",
+              "Compliance-ready content management",
+              "Integration with existing video library"
+            ]
+          },
+          {
+            "type": "contentStructure",
+            "title": "Content Structure",
+            "modules": [
+              {
+                "module": "Peripheral Vascular Procedures",
+                "topics": [
+                  "Anatomy & Physiology",
+                  "Procedure Techniques",
+                  "Product Selection",
+                  "Case Studies"
+                ]
+              },
+              {
+                "module": "Neurointerventional Procedures",
+                "topics": [
+                  "Cerebrovascular Anatomy",
+                  "Intervention Techniques",
+                  "Device Applications",
+                  "Clinical Outcomes"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "technicalSpecs",
+            "title": "Technical Specifications",
+            "specs": [
+              "Secure, GDPR-compliant hosting",
+              "User authentication and role management",
+              "Analytics and reporting dashboard",
+              "Content management system",
+              "Multi-region deployment capability"
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 7,
+        "slideType": "mentorship",
+        "title": "Mentorship & KOL Program",
+        "subtitle": "Building Expert Networks",
+        "elements": [
+          {
+            "type": "programStructure",
+            "title": "Program Components",
+            "components": [
+              {
+                "name": "KOL Webinar Series",
+                "description": "Regular educational sessions with European KOLs",
+                "frequency": "Monthly cadence",
+                "format": "Live + recorded sessions"
+              },
+              {
+                "name": "Case Library",
+                "description": "Curated collection of clinical cases",
+                "content": "Real-world applications and outcomes",
+                "access": "Platform-integrated"
+              },
+              {
+                "name": "Training Center Partnerships",
+                "description": "Collaboration with European training centers",
+                "benefits": [
+                  "Hands-on training",
+                  "Skill development",
+                  "Network building"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "targetAudience",
+            "title": "Target Participants",
+            "audience": [
+              "Advanced residents and fellows",
+              "Early-career physicians",
+              "Interventional specialists",
+              "Training program directors"
+            ]
+          },
+          {
+            "type": "successMetrics",
+            "title": "Success Indicators",
+            "metrics": [
+              "Webinar attendance rates",
+              "Case library usage",
+              "Participant feedback scores",
+              "KOL engagement levels"
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 8,
+        "slideType": "productHelper",
+        "title": "Product Selection Helper",
+        "subtitle": "Compliant Decision Support Tool",
+        "elements": [
+          {
+            "type": "toolFeatures",
+            "title": "Core Functionality",
+            "features": [
+              "Interactive product selection wizard",
+              "Procedure-specific recommendations",
+              "Regional compliance checking",
+              "eIFU integration and access",
+              "Approval status verification",
+              "Off-label usage prevention"
+            ]
+          },
+          {
+            "type": "complianceFeatures",
+            "title": "Compliance & Regulatory",
+            "features": [
+              "European claims validation",
+              "Country-specific approvals",
+              "Medical device regulations",
+              "GDPR-compliant data handling",
+              "Audit trail maintenance"
+            ]
+          },
+          {
+            "type": "userExperience",
+            "title": "User Experience",
+            "features": [
+              "Intuitive interface design",
+              "Quick decision support",
+              "Mobile accessibility",
+              "Offline capability",
+              "Integration with existing workflows"
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 9,
+        "slideType": "dataStrategy",
+        "title": "Data Strategy & Analytics",
+        "subtitle": "GDPR-Compliant Insights Platform",
+        "elements": [
+          {
+            "type": "dataCollection",
+            "title": "Data Collection Strategy",
+            "strategy": [
+              "GDPR-compliant consent flows",
+              "Zero/first-party data capture",
+              "User behavior analytics",
+              "Engagement metrics tracking",
+              "Feedback collection systems"
+            ]
+          },
+          {
+            "type": "analyticsDashboard",
+            "title": "Analytics & Reporting",
+            "features": [
+              "Real-time dashboard",
+              "Custom report generation",
+              "ROI measurement tools",
+              "Market intelligence insights",
+              "Predictive analytics capabilities"
+            ]
+          },
+          {
+            "type": "integration",
+            "title": "System Integration",
+            "integrations": [
+              "European CRM systems",
+              "Sales force automation",
+              "Marketing automation platforms",
+              "Business intelligence tools",
+              "Regulatory reporting systems"
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 10,
+        "slideType": "implementation",
+        "title": "Implementation Timeline & Success Metrics",
+        "subtitle": "FY50 Pilot Program",
+        "elements": [
+          {
+            "type": "timeline",
+            "title": "Implementation Timeline",
+            "phases": [
+              {
+                "phase": "Phase 1: Planning & Design",
+                "duration": "Months 1-2",
+                "activities": [
+                  "Requirements gathering",
+                  "Platform design",
+                  "Content planning"
+                ]
+              },
+              {
+                "phase": "Phase 2: Development",
+                "duration": "Months 3-5",
+                "activities": [
+                  "Platform development",
+                  "Content creation",
+                  "Testing"
+                ]
+              },
+              {
+                "phase": "Phase 3: Pilot Launch",
+                "duration": "Months 6-8",
+                "activities": [
+                  "European market launch",
+                  "User onboarding",
+                  "Initial feedback"
+                ]
+              },
+              {
+                "phase": "Phase 4: Evaluation",
+                "duration": "Months 9-12",
+                "activities": [
+                  "Performance analysis",
+                  "Optimization",
+                  "Scale planning"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "successMetrics",
+            "title": "Success Metrics",
+            "categories": [
+              {
+                "category": "Reach & Adoption",
+                "metrics": [
+                  "Registered HCPs",
+                  "Target specialty penetration",
+                  "Repeat usage"
+                ]
+              },
+              {
+                "category": "Engagement",
+                "metrics": [
+                  "Module completions",
+                  "Quiz pass rates",
+                  "Webinar attendance"
+                ]
+              },
+              {
+                "category": "Commercial Impact",
+                "metrics": ["Trial requests", "Sample requests", "Sales growth"]
+              },
+              {
+                "category": "Efficiency",
+                "metrics": [
+                  "Cost per engaged HCP",
+                  "Time to engagement",
+                  "ROI vs congresses"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slideNumber": 11,
+        "slideType": "nextSteps",
+        "title": "Next Steps & Q&A",
+        "subtitle": "Moving Forward with the Proposal",
+        "elements": [
+          {
+            "type": "immediateActions",
+            "title": "Immediate Next Steps",
+            "actions": [
+              "Stakeholder alignment and approval",
+              "Detailed budget planning",
+              "Team formation and roles assignment",
+              "European market prioritization",
+              "KOL identification and engagement"
+            ]
+          },
+          {
+            "type": "risks",
+            "title": "Risk Mitigation",
+            "risks": [
+              "Compliance and regulatory challenges",
+              "Technical implementation complexity",
+              "User adoption barriers",
+              "Resource allocation constraints",
+              "Market competition response"
+            ]
+          },
+          {
+            "type": "contact",
+            "title": "Contact Information",
+            "content": "For questions and collaboration opportunities",
+            "details": [
+              "Project Lead: [Name]",
+              "Email: [email]",
+              "Phone: [number]",
+              "Follow-up Meeting: [Date]"
+            ]
+          },
+          {
+            "type": "thankYou",
+            "content": "Thank You",
+            "subtitle": "Your Dreams. Woven Together.",
+            "position": "center"
+          }
+        ]
+      }
+    ],
+    "navigation": {
+      "type": "slideNavigation",
+      "features": [
+        "Previous/Next buttons",
+        "Slide thumbnails",
+        "Progress indicator",
+        "Jump to slide functionality",
+        "Fullscreen mode"
+      ]
+    },
+    "interactiveElements": {
+      "animations": [
+        "Slide transitions",
+        "Element fade-ins",
+        "Progress indicators",
+        "Interactive charts"
+      ],
+      "responsive": true,
+      "accessibility": {
+        "screenReader": true,
+        "keyboardNavigation": true,
+        "highContrast": true
+      }
+    }
+  }
+}
